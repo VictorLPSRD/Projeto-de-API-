@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Inteligência Emocional",
+    "autor": "Daniel Goleman",
+    "area": "Psicologia",
+    "imagem": "https://example.com/imagem1.jpg",
+    "editora": "Objetiva",
+    "ano_de_publicacao": 1995,
+    "isbn": "978-85-7302-110-5"
+  },
+  {
+    "titulo": "O Poder do Agora",
+    "autor": "Eckhart Tolle",
+    "area": "Espiritualidade",
+    "imagem": "https://example.com/imagem2.jpg",
+    "editora": "Sextante",
+    "ano_de_publicacao": 1997,
+    "isbn": "978-85-7525-602-6"
+  },
+  {
+    "titulo": "A Arte da Felicidade",
+    "autor": "Dalai Lama",
+    "area": "Filosofia",
+    "imagem": "https://example.com/imagem3.jpg",
+    "editora": "Rocco",
+    "ano_de_publicacao": 1998,
+    "isbn": "978-85-325-0337-5"
+  },
+  {
+    "titulo": "Mindset",
+    "autor": "Carol S. Dweck",
+    "area": "Desenvolvimento Pessoal",
+    "imagem": "https://example.com/imagem4.jpg",
+    "editora": "Objetiva",
+    "ano_de_publicacao": 2006,
+    "isbn": "978-85-7768-217-6"
+  }
+]
